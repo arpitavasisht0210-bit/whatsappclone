@@ -100,11 +100,27 @@ not a production-ready real-time chat service.
 - Understanding how frontend and backend services connect
 
 
+
 ## 📌 Project Status
 
-**Initial Bootcamp Version:** Completed and Functional
+**Bootcamp Prototype:** Completed
 
-**Future Enhancements:** Planned
+**Current Version:** Functional frontend messaging simulator using mock conversations and automated replies.
+
+**Development Status:** Future enhancements planned, including persistent messages and real-time communication.
+
+**Development Approach:** Initially built with Bolt AI as part of a web development bootcamp, with plans for independent coding improvements.
+
+
+
+## ⚠️ Current Limitations
+
+- Chat conversations use sample data.
+- Replies are automatically simulated.
+- Messages are stored in React state and do not persist after a page refresh.
+- Real-time messaging between different users is not yet implemented.
+- Some functionality may depend on Supabase configuration.
+
 
 ## 👩‍💻 Author
 
