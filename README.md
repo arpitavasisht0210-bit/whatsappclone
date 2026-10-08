@@ -28,11 +28,42 @@ The initial version is complete and functional. I plan to improve the applicatio
 
 ## ✨ Features
 
-- WhatsApp-inspired user interface
-- Functional web application prototype
-- React-based component architecture
 
-*Additional functionality will be documented as features are verified.*
+## ✨ Features
+
+- WhatsApp-inspired messaging interface
+- Interactive conversation selection
+- Send and display text messages
+- Automatic simulated chat replies
+- Dynamic last-message previews
+- Unread message count management
+- Message timestamps and date separators
+- Contact avatars and online/offline indicators
+- Automatic scrolling to recent messages
+- Login and signup interface components
+
+## ⚙️ How It Works
+
+The application currently uses mock conversation data
+and React state to simulate messaging interactions.
+
+When a user sends a message:
+1. The message is added to the selected conversation.
+2. The conversation preview updates.
+3. A simulated reply appears after approximately 1.5 seconds.
+
+This version is a frontend messaging simulator,
+not a production-ready real-time chat service.
+
+## 🚧 Future Improvements
+
+- Implement real-time messaging using Supabase
+- Store conversations and messages in a database
+- Add message delivery and read receipts
+- Improve authentication and session management
+- Add image and file sharing
+- Improve responsive design and accessibility
+- Refactor and extend the AI-generated code
 
 ## 💻 Getting Started
 
