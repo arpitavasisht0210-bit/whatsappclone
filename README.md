@@ -6,6 +6,12 @@ A messaging web application created using **Bolt AI** during a web development b
 
 This project marks one of my first experiences with AI-assisted software development and helped introduce me to modern web technologies and application architecture.
 
+📸 Application Preview
+![WhatsApp Clone Chat Interface](WhatsappClone-preview.png)
+
+
+
+
 ## 🚀 About the Project
 
 The application was developed as a bootcamp project to explore how messaging platforms are structured and built.
@@ -25,8 +31,6 @@ The initial version is complete and functional. I plan to improve the applicatio
 | Lucide React | Icons |
 
 **Development Tool:** Bolt AI
-
-## ✨ Features
 
 
 ## ✨ Features
