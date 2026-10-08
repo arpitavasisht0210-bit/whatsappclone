@@ -1,54 +1,89 @@
 # 💬 WhatsApp Clone
 
-### AI-Assisted Web Development | Bootcamp Project
+### A WhatsApp-Inspired Messaging Web Application
 
-A WhatsApp-inspired messaging application developed using **Bolt AI** during a web development bootcamp.
+A messaging web application created using **Bolt AI** during a web development bootcamp.
 
-This project introduced me to AI-assisted application development, web application structure, and the process of turning ideas into functional software.
+This project marks one of my first experiences with AI-assisted software development and helped introduce me to modern web technologies and application architecture.
 
 ## 🚀 About the Project
 
-This application was created as part of my early programming journey.
+The application was developed as a bootcamp project to explore how messaging platforms are structured and built.
 
-I used Bolt AI to generate and develop the initial application, gaining exposure to web development workflows and how different components work together.
+The initial version is complete and functional. I plan to improve the application through hands-on coding as I continue learning software development.
 
-The initial bootcamp version is functional, and I plan to improve and customize it as I strengthen my programming skills.
+## 🛠️ Tech Stack
 
-## 🛠️ Development Approach
+| Technology | Purpose |
+|---|---|
+| React | Frontend user interface |
+| TypeScript | Application development |
+| Tailwind CSS | Styling |
+| Vite | Development and build tooling |
+| Supabase | Backend integration |
+| React Router | Application routing |
+| Lucide React | Icons |
 
-- **Development Tool:** Bolt AI
-- **Project Type:** Web Application
-- **Development Method:** AI-Assisted Development
-- **Status:** Completed Bootcamp Prototype
+**Development Tool:** Bolt AI
 
-## 📚 Learning Journey
+## ✨ Features
 
-Through this project, I explored:
+- WhatsApp-inspired user interface
+- Functional web application prototype
+- React-based component architecture
 
-- AI-assisted software development
-- Web application structure
-- Building functional application interfaces
-- Iterative development and testing
-- Using GitHub to manage and showcase projects
+*Additional functionality will be documented as features are verified.*
+
+## 💻 Getting Started
+
+**Prerequisites:** Node.js and npm
+
+1. Clone the repository:
+
+   `git clone https://github.com/arpitavasisht0210-bit/whatsappclone.git`
+
+2. Open the project directory:
+
+   `cd whatsappclone`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+**Note:** Some features may require Supabase configuration and environment variables.
+
+## 📚 What I Learned
+
+- Exploring AI-assisted development with Bolt AI
+- Understanding the structure of React applications
+- Getting familiar with TypeScript and frontend technologies
+- Using GitHub for project management
+- Understanding how frontend and backend services connect
 
 ## 🔮 Future Improvements
 
-- Improve UI responsiveness and accessibility
+- Improve mobile responsiveness
 - Explore real-time messaging functionality
-- Strengthen authentication and security
-- Improve code organization and maintainability
-- Implement additional features as I learn JavaScript and backend development
+- Improve authentication and security
+- Add new messaging features
+- Refactor and customize AI-generated code independently
 
 ## 📌 Project Status
 
-**Initial Version:** Completed
+**Initial Bootcamp Version:** Completed and Functional
 
 **Future Enhancements:** Planned
 
-## 👩‍💻 Developed By
+## 👩‍💻 Author
 
 **Arpita Vashisht**
 
 B.Tech Computer Science & Artificial Intelligence Student
 
 Aspiring Software Engineer
+
+[GitHub Profile](https://github.com/arpitavasisht0210-bit)
