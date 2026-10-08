@@ -99,13 +99,6 @@ not a production-ready real-time chat service.
 - Using GitHub for project management
 - Understanding how frontend and backend services connect
 
-## 🔮 Future Improvements
-
-- Improve mobile responsiveness
-- Explore real-time messaging functionality
-- Improve authentication and security
-- Add new messaging features
-- Refactor and customize AI-generated code independently
 
 ## 📌 Project Status
 
